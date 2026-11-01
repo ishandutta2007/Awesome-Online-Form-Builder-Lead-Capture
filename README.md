@@ -33,6 +33,8 @@ The global online form builder and lead capture software market is estimated at 
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [⚖️ Architecture & Comparison Matrix](#️-architecture--comparison-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🛡️ Disclaimer & Privacy Compliance](#️-disclaimer--privacy-compliance)
 
 ---
@@ -127,6 +129,28 @@ We welcome additions, corrections, and improvements from the open-source and mar
    git commit -m "feat: add NewFormTool to open-source table"
    ```
 5. **Push and submit a Pull Request** with verification links.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this curated resource! If you find this guide helpful for selecting your form building and lead capture stack, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing new tools or corrections
+- 📢 **Sharing** with your fellow developers, marketers, and founders
+- ☕ **Buying a coffee** to support ongoing maintenance and curation:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
