@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Form-Builder-Lead-Capture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,9 +60,9 @@ Below is an analytical overview of the top commercial online form builder and le
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the most active and capable open-source form builders, survey engines, and backend capture APIs. Sorted in descending order by GitHub community stars ⭐:
+Explore the most active and capable open-source form builders, survey engines, and backend capture APIs. Sorted in descending order by GitHub community GitHub_Stars ⭐:
 
-| Project & Repository Link | Stars Badge | License 📜 | Tech Stack 🛠️ | Architectural Highlights & Capabilities 💡 |
+| Project & Repository Link | Stars_Badge | License 📜 | Tech Stack 🛠️ | Architectural Highlights & Capabilities 💡 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Formbricks](https://github.com/formbricks/formbricks)** | <a href="https://github.com/formbricks/formbricks/stargazers"><img src="https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white" alt="Formbricks Stars" /></a> | AGPL-3.0 (Open-Core) | Next.js, TypeScript, Tailwind, Prisma | Complete privacy-first experience management; multi-channel in-app surveys, targeted user cohort prompts, and visual no-code builder. |
 | **[Typebot](https://github.com/baptisteArno/typebot.io)** | <a href="https://github.com/baptisteArno/typebot.io/stargazers"><img src="https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white" alt="Typebot Stars" /></a> | AGPL-3.0 | Next.js, React, Node.js, PostgreSQL | Visual drag-and-drop conversational form & chatbot builder; dynamic conditionals, webhook branching, and multi-channel embed support. |
@@ -123,7 +123,7 @@ We welcome additions, corrections, and improvements from the open-source and mar
 3. **Add or modify entries** in `README.md`:
    - Follow the established markdown table structure.
    - For SaaS: verify exact starting tier pricing, non-generic free tier limits, and valuation/scale.
-   - For Open Source: include repository URL, correct star badge, open-source license, and primary language stack.
+   - For Open Source: include repository URL, correct Stars_Badge, open-source license, and primary language stack.
 4. **Commit your updates** with a clear message:
    ```bash
    git commit -m "feat: add NewFormTool to open-source table"
